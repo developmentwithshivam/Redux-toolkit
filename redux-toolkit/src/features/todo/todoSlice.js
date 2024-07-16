@@ -1,5 +1,6 @@
 import { createSlice, nanoid } from '@reduxjs/toolkit'
 // how are you
+// fine thankyou
 // const initialState= {
 //     todos:[{id:nanoid(),
 //         text:"hello world"}]
